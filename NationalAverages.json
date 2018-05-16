@@ -1,0 +1,46 @@
+{
+    "Grad %": "82",
+    "Low Income %": "46",
+    "Name": "National Averages",
+    "Race Data": [
+        [
+            "Black",
+            "6%"
+        ],
+        [
+            "Native",
+            "1%"
+        ],
+        [
+            "Asian",
+            "9%"
+        ],
+        [
+            "Filipino",
+            "3%"
+        ],
+        [
+            "Hispanic",
+            "54%"
+        ],
+        [
+            "Hawaiian",
+            "1%"
+        ],
+        [
+            "White",
+            "24%"
+        ],
+        [
+            "Multi",
+            "3%"
+        ]
+    ],
+    "Scores": {
+        "English": "49",
+        "Math": "38",
+        "SAT": "1473"
+    },
+    "Teacher/Student Ratio: ": "22",
+    "UC/CSU Reqs": "43"
+}

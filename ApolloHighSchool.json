@@ -1,0 +1,46 @@
+{
+    "Grad %": "83",
+    "Low Income %": "90",
+    "Name": "Apollo High School",
+    "Race Data": [
+        [
+            "Hispanic",
+            "87%"
+        ],
+        [
+            "Asian",
+            "6%"
+        ],
+        [
+            "Filipino",
+            "4%"
+        ],
+        [
+            "White",
+            "1%"
+        ],
+        [
+            "Black",
+            "1%"
+        ],
+        [
+            "Pacific Islander",
+            "1%"
+        ],
+        [
+            "Two or more races<",
+            "1%"
+        ],
+        [
+            "American Indian/Alaska Native<",
+            "1%"
+        ]
+    ],
+    "Scores": {
+        "English": "21",
+        "Math": "1",
+        "SAT": "0"
+    },
+    "Teacher/Student Ratio: ": "19",
+    "UC/CSU Reqs": "1"
+}

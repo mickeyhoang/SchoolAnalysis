@@ -1,0 +1,46 @@
+{
+    "Grad %": "89",
+    "Low Income %": "31",
+    "Name": "Menlo-Atherton High School",
+    "Race Data": [
+        [
+            "Hispanic",
+            "43%"
+        ],
+        [
+            "White",
+            "41%"
+        ],
+        [
+            "Asian",
+            "5%"
+        ],
+        [
+            "Two or more races",
+            "4%"
+        ],
+        [
+            "Black",
+            "3%"
+        ],
+        [
+            "Pacific Islander",
+            "3%"
+        ],
+        [
+            "Filipino",
+            "1%"
+        ],
+        [
+            "American Indian/Alaska Native<",
+            "1%"
+        ]
+    ],
+    "Scores": {
+        "English": "53",
+        "Math": "71",
+        "SAT": "1748"
+    },
+    "Teacher/Student Ratio: ": "19",
+    "UC/CSU Reqs": "65"
+}

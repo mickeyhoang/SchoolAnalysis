@@ -1,0 +1,46 @@
+{
+    "Grad %": "96",
+    "Low Income %": "0",
+    "Name": "Palo Alto High School",
+    "Race Data": [
+        [
+            "White",
+            "50%"
+        ],
+        [
+            "Asian",
+            "29%"
+        ],
+        [
+            "Hispanic",
+            "10%"
+        ],
+        [
+            "Two or more races",
+            "5%"
+        ],
+        [
+            "Black",
+            "3%"
+        ],
+        [
+            "Filipino",
+            "1%"
+        ],
+        [
+            "Pacific Islander",
+            "1%"
+        ],
+        [
+            "American Indian/Alaska Native",
+            "1%"
+        ]
+    ],
+    "Scores": {
+        "English": "86",
+        "Math": "73",
+        "SAT": "1908"
+    },
+    "Teacher/Student Ratio: ": "17",
+    "UC/CSU Reqs": "97"
+}

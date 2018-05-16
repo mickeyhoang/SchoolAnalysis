@@ -1,0 +1,46 @@
+{
+    "Grad %": "89",
+    "Low Income %": "43",
+    "Name": "Woodside High School",
+    "Race Data": [
+        [
+            "Hispanic",
+            "56%"
+        ],
+        [
+            "White",
+            "32%"
+        ],
+        [
+            "Two or more races",
+            "3%"
+        ],
+        [
+            "Pacific Islander",
+            "3%"
+        ],
+        [
+            "Black",
+            "3%"
+        ],
+        [
+            "Asian",
+            "2%"
+        ],
+        [
+            "Filipino",
+            "1%"
+        ],
+        [
+            "American Indian/Alaska Native<",
+            "1%"
+        ]
+    ],
+    "Scores": {
+        "English": "44",
+        "Math": "70",
+        "SAT": "1509"
+    },
+    "Teacher/Student Ratio: ": "18",
+    "UC/CSU Reqs": "59"
+}

@@ -1,0 +1,46 @@
+{
+    "Grad %": "99",
+    "Low Income %": "2",
+    "Name": "Monta Vista High School",
+    "Race Data": [
+        [
+            "Asian",
+            "77%"
+        ],
+        [
+            "White",
+            "15%"
+        ],
+        [
+            "Two or more races",
+            "4%"
+        ],
+        [
+            "Hispanic",
+            "3%"
+        ],
+        [
+            "Filipino",
+            "1%"
+        ],
+        [
+            "Black<",
+            "1%"
+        ],
+        [
+            "American Indian/Alaska Native<",
+            "1%"
+        ],
+        [
+            "Pacific Islander<",
+            "1%"
+        ]
+    ],
+    "Scores": {
+        "English": "94",
+        "Math": "90",
+        "SAT": "1986"
+    },
+    "Teacher/Student Ratio: ": "22",
+    "UC/CSU Reqs": "89"
+}
